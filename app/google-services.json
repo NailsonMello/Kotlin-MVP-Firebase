@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782936588017",
+    "firebase_url": "https://portfolionailsonmello.firebaseio.com",
+    "project_id": "portfolionailsonmello",
+    "storage_bucket": "portfolionailsonmello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782936588017:android:a0b55e51504f4425",
+        "android_client_info": {
+          "package_name": "barbearia.com.kotlinapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782936588017-lfmvpg957b7n0bin2retrrnrbcg465og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "barbearia.com.kotlinapplicationtest",
+            "certificate_hash": "97b122834d23a5041a295dbf569689322f1a9083"
+          }
+        },
+        {
+          "client_id": "782936588017-a9cmsnqv1o63lo7lgiob010ce4egcvsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrthttXLu9bNvx2uSGIfedrpHQj3oAVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782936588017-a9cmsnqv1o63lo7lgiob010ce4egcvsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
